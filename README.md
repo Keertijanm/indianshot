@@ -4,7 +4,6 @@
 
 [Demo of Indian Shot](https://github.com/Keertijanm/indianshot)
 
-![](/.png)
 
 ### Summary
 
