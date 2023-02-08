@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [Demo of Indian Shot](https://github.com/Keertijanm/indianshot)
-![](/snapscout.png)
+![](/snapscout1.png)
 
 
 ### Summary
