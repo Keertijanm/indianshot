@@ -1,10 +1,10 @@
-# Snap Shot [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=See%20this%20react%20example&url=https://github.com/Keertijanm/indianshot/&hashtags=react,context-api,developers)
+# Indian Shot [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=See%20this%20react%20example&url=https://github.com/Keertijanm/indianshot/&hashtags=react,context-api,developers)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Demo of Snap Shot](https://github.com/Keertijanm/indianshot)
+[Demo of Indian Shot](https://github.com/Keertijanm/indianshot)
 
-![](/snapscout.png)
+![](/.png)
 
 ### Summary
 
